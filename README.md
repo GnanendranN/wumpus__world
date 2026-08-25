@@ -7,7 +7,7 @@ To solve Wumpus World Problem using Python demonstrating Inferences from Proposi
 
 # Problem Description
 
-## Wumpus World
+<h2>Wumpus World</h2>
 
 The Wumpus world is a simple world example to illustrate the worth of a knowledge-based agent and to represent knowledge representation.
 
